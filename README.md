@@ -1,2 +1,5 @@
 # Corretor-Ortografico
-Modelo de Machine Learning   
+
+
+Este corretor ortogáfico foi feito dentro do Google Colab .
+Os dados para upload estão disponíveis.
